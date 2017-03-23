@@ -37,8 +37,8 @@ for more details.
 [py]: https://google.github.io/styleguide/pyguide.html
 [r]: https://google.github.io/styleguide/Rguide.xml
 [sh]: https://google.github.io/styleguide/shell.xml
-[htmlcss]: https://google.github.io/styleguide/htmlcssguide.xml
-[js]: https://google.github.io/styleguide/javascriptguide.xml
+[htmlcss]: https://google.github.io/styleguide/htmlcssguide.html
+[js]: https://google.github.io/styleguide/jsguide.html
 [angular]: https://google.github.io/styleguide/angularjs-google-style.html
 [cl]: https://google.github.io/styleguide/lispguide.xml
 [vim]: https://google.github.io/styleguide/vimscriptguide.xml
